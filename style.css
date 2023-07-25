@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 20px 0;
+  }
+  
+  .list-container {
+    display: inline-block;
+    width: 45%;
+    margin: 10px;
+    vertical-align: top;
+  }
+  
+  .list-container h2 {
+    margin-bottom: 5px;
+  }
+  
+  #emptyMessage {
+    display: none;
+    font-style: italic;
+  }
+  
+  button {
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  
